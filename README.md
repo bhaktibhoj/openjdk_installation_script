@@ -1,0 +1,1 @@
+# openjdk_installation_script
