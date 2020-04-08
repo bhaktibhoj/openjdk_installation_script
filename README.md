@@ -1,4 +1,3 @@
-# openjdk_installation_script
 # Ubuntu Java Installer
 Bash script that automates installation of Open source Java (JDK) on Ubuntu Linux.
 
